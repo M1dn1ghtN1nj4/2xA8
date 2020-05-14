@@ -1,0 +1,68 @@
+{
+  "files" : [ {
+    "remoteURL" : "https://mcudude.github.io/MightyCore/package_MCUdude_MightyCore_index.json",
+    "localPath" : "C:\\Users\\chevy\\Desktop\\TESTING\\ArduinoIDE\\portable\\cache\\mcudude.github.io\\MightyCore\\package_MCUdude_MightyCore_index.json",
+    "eTag" : "5eb272e6-38bb",
+    "md5" : "MD5:8c97ff67126b0d6d6278fb7e846938bf",
+    "createdAt" : "2020-05-13T16:50:58.619",
+    "cacheControl" : {
+      "maxAge" : 600,
+      "mustRevalidate" : false,
+      "noCache" : false,
+      "noStore" : false
+    },
+    "expires" : "2020-05-13T17:00:58.619"
+  }, {
+    "remoteURL" : "https://downloads.arduino.cc/libraries/library_index.json.gz",
+    "localPath" : "C:\\Users\\chevy\\Desktop\\TESTING\\ArduinoIDE\\portable\\cache\\downloads.arduino.cc\\libraries\\library_index.json.gz",
+    "eTag" : "ff5d8dab1d7353df7b07e23fabb6a7f2",
+    "md5" : "MD5:ff5d8dab1d7353df7b07e23fabb6a7f2",
+    "createdAt" : "2020-05-13T16:50:48.231",
+    "cacheControl" : {
+      "maxAge" : 14400,
+      "mustRevalidate" : false,
+      "noCache" : false,
+      "noStore" : false
+    },
+    "expires" : "2020-05-13T20:50:48.231"
+  }, {
+    "remoteURL" : "https://downloads.arduino.cc/libraries/library_index.json.sig",
+    "localPath" : "C:\\Users\\chevy\\Desktop\\TESTING\\ArduinoIDE\\portable\\cache\\downloads.arduino.cc\\libraries\\library_index.json.sig",
+    "eTag" : "5a1d6d8474c36b1e16e1808ba0ec9f12",
+    "md5" : "MD5:5a1d6d8474c36b1e16e1808ba0ec9f12",
+    "createdAt" : "2020-05-13T16:50:48.483",
+    "cacheControl" : {
+      "maxAge" : 14400,
+      "mustRevalidate" : false,
+      "noCache" : false,
+      "noStore" : false
+    },
+    "expires" : "2020-05-13T20:50:48.483"
+  }, {
+    "remoteURL" : "https://downloads.arduino.cc/packages/package_index.json.sig",
+    "localPath" : "C:\\Users\\chevy\\Desktop\\TESTING\\ArduinoIDE\\portable\\cache\\downloads.arduino.cc\\packages\\package_index.json.sig",
+    "eTag" : "07ed031beb5822fb19d17e8d1ba23cf1",
+    "md5" : "MD5:07ed031beb5822fb19d17e8d1ba23cf1",
+    "createdAt" : "2020-05-13T16:50:59.29",
+    "cacheControl" : {
+      "maxAge" : 3600,
+      "mustRevalidate" : false,
+      "noCache" : false,
+      "noStore" : false
+    },
+    "expires" : "2020-05-13T17:50:59.290"
+  }, {
+    "remoteURL" : "https://downloads.arduino.cc/packages/package_index.json",
+    "localPath" : "C:\\Users\\chevy\\Desktop\\TESTING\\ArduinoIDE\\portable\\cache\\downloads.arduino.cc\\packages\\package_index.json",
+    "eTag" : "c6204a924d0c49bd87097d95a17e0061",
+    "md5" : "MD5:c6204a924d0c49bd87097d95a17e0061",
+    "createdAt" : "2020-05-13T16:50:59.018",
+    "cacheControl" : {
+      "maxAge" : 3600,
+      "mustRevalidate" : false,
+      "noCache" : false,
+      "noStore" : false
+    },
+    "expires" : "2020-05-13T17:50:59.018"
+  } ]
+}
